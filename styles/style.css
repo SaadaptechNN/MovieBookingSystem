@@ -1,0 +1,12 @@
+.active{
+	
+	background:  linear-gradient(to right, #fa9e1b, #8d4fff, #fa9e1b);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+}
+
+.style:hover{
+	
+
+}
+
